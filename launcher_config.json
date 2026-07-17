@@ -1,0 +1,12 @@
+﻿{
+    "ctx":  8192,
+    "last_model":  "bonsai-27b-q1",
+    "llama_bin":  "C:\\Users\\geron\\OneDrive\\Desktop\\AI\\Bansai Llama.cpp\\llama.cpp\\build\\bin",
+    "jinja":  true,
+    "models_dir":  "C:\\Users\\geron\\OneDrive\\Desktop\\AI\\Bansai Llama.cpp\\models",
+    "ngl":  99,
+    "host":  "127.0.0.1",
+    "extra_args":  "",
+    "port":  8080,
+    "tools":  "all"
+}
